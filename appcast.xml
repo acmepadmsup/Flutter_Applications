@@ -3,7 +3,7 @@
   <channel>
    <item>
       <title>Version 2.0.0</title>
-      <description>1.New Icons with updated UI 2.Supplier rate fix 3. google review by using pos 4. catalogue with advanced search 6. customer birthday/anniversary reminder. 8 .multiple document selection</description>
+      <description>Initial release of the app on the Google Play Store.</description>
       <pubDate>Mon, 15 Mar 2024 00:00:00 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewel.pos_app&pcampaignid=web_share" sparkle:version="2.0.0" sparkle:os="android" />
       <sparkle:minimumSystemVersion os="android">8.0</sparkle:minimumSystemVersion>
